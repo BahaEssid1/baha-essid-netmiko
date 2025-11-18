@@ -1,9 +1,9 @@
 Mon Projet Netmiko
-I. Initialiser un dépôt Git local
+-I. Initialiser un dépôt Git local
   1. Créez un nouveau répertoire prenom-nom-netmiko pour votre projet.
   2. Initialisez un dépôt Git dans ce répertoire.
 <img width="745" height="107" alt="1" src="https://github.com/user-attachments/assets/cd65475c-0b39-490d-a409-e50f47984709" />
-II. Ajouter et commiter des fichiers
+-II. Ajouter et commiter des fichiers
   1. Créez un fichier README.md et ajoutez-y le titre : Mon Projet Netmiko   
    On a crée une fichier README.md aec la command nano README.md et ajouter le titre : Mon Projet Netmiko
  <img width="955" height="156" alt="2" src="https://github.com/user-attachments/assets/afdb1456-67ac-47c3-8f4b-a32de9a5723f" />
@@ -22,7 +22,7 @@ README".
   6. Affichez tous les commits effectués.
   
    git log
-III. Créer et fusionner des branches
+-III. Créer et fusionner des branches
   1. Créez une nouvelle branche feature/netmiko pour ajouter une fonctionnalité.
     git branch feature/netmiko
     git checkout feature/netmiko
@@ -44,7 +44,7 @@ acces_netmiko".
   7. Fusionnez les modifications de la branche feature/netmiko dans main.
  git merge feature/netmiko
 
-IV. Travailler avec un dépôt distant sur GitHub
+-IV. Travailler avec un dépôt distant sur GitHub
   1. Créez un nouveau dépôt sur GitHub (nommez-le prenom-nom-netmiko ).
   <img width="1353" height="387" alt="4" src="https://github.com/user-attachments/assets/dd346ef5-4c9b-427b-a1c2-ca776d40846d" />
 
