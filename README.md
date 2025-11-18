@@ -1,5 +1,5 @@
 Mon Projet Netmiko
--I. Initialiser un dépôt Git local
+* Initialiser un dépôt Git local
   1. Créez un nouveau répertoire prenom-nom-netmiko pour votre projet.
   2. Initialisez un dépôt Git dans ce répertoire.
 <img width="745" height="107" alt="1" src="https://github.com/user-attachments/assets/cd65475c-0b39-490d-a409-e50f47984709" />
