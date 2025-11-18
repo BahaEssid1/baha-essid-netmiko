@@ -3,7 +3,7 @@ Mon Projet Netmiko
   1. Créez un nouveau répertoire prenom-nom-netmiko pour votre projet.
   2. Initialisez un dépôt Git dans ce répertoire.
 <img width="745" height="107" alt="1" src="https://github.com/user-attachments/assets/cd65475c-0b39-490d-a409-e50f47984709" />
--II. Ajouter et commiter des fichiers
+*II. Ajouter et commiter des fichiers
   1. Créez un fichier README.md et ajoutez-y le titre : Mon Projet Netmiko   
    On a crée une fichier README.md aec la command nano README.md et ajouter le titre : Mon Projet Netmiko
  <img width="955" height="156" alt="2" src="https://github.com/user-attachments/assets/afdb1456-67ac-47c3-8f4b-a32de9a5723f" />
